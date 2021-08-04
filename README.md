@@ -11,4 +11,7 @@ The EHR dataset used here consists of patient data in a Pediatric Intensive Care
 The dataset Consists of 5000 number of patient encounters and measured Timestamps 76693.
 
 Project tasks in [Project_tasks.pdf](Project_tasks.pdf)
+
+Experiment Model and Result.
+![alt text](Experiment_model.jpg)
 Full Solution in [Project.ipynb](Project.ipynb)
