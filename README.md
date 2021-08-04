@@ -12,11 +12,12 @@ The dataset Consists of 5000 number of patient encounters and measured Timestamp
 
 Project tasks in [Project_tasks.pdf](Project_tasks.pdf)
 
-Experiment Model:
+Experiment Models:
 
 ![alt text](Experiment_model.png) ![alt text](Experiment_GRU.png)
 
-Experiment Result:
+Experiment Results:
 
+![alt text](result_lstm.png) ![alt text](result_gru.png)
 
 Full Solution in [Project.ipynb](Project.ipynb)
